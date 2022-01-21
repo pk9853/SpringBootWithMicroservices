@@ -5,6 +5,6 @@ public class Test {
 	private int id=10;
 	
 	public static void main(String[] args) {
-		
+		system.out.println("Hello");
 	}
 }
